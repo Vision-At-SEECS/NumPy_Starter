@@ -21,3 +21,6 @@ To install NumPy, first make sure that Python and Pip are installed on your syst
 ```
 pip install numpy
 ```
+
+## Credits
+This NumPy starter tutorial is prepared and provided by our MachVIS alumnus Mr. Asim Hameed. For more information, you can contact him via email at [akhan.mscs19seecs@seecs.edu.pk](akhan.mscs19seecs@seecs.edu.pk) or you can visit his GitHub profile [https://github.com/asimniazi63](https://github.com/asimniazi63).
